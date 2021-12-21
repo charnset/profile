@@ -1,0 +1,31 @@
+.news {
+  max-width: 800px;
+  height: auto;
+  margin: 0 auto;
+  display: block;
+}
+
+.header {
+  margin: 5px 0;
+  padding-left: 30px;
+}
+
+.info {
+  margin-top: 0px;
+  padding: 0px 60px;
+  list-style-type: circle;
+  font-size: 12px;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+a {
+  color: #6eb5ff;
+}
+
+span.date {
+  color: black;
+  font-weight: bold;
+}

@@ -1,0 +1,29 @@
+.nav-bar {
+  max-width: 720px;
+  margin: 0 auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-style: solid hidden solid hidden;
+  border-width: 1px;
+  border-color: #dddddd;
+  text-align: center;
+}
+
+.jump {
+  font-size: 16px;
+  color: #6eb5ff;
+}
+
+.footnote {
+  max-width: 720px;
+  margin: 0 auto;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  padding-top: 10px;
+  border-style: solid hidden hidden hidden;
+  border-width: 1px;
+  border-color: #dddddd;
+  text-align: right;
+  font-size: 12px;
+}

@@ -1,9 +1,9 @@
 .nav-bar {
-  max-width: 720px;
+  max-width: 760px;
   margin: 0 auto;
   margin-top: 10px;
   margin-bottom: 10px;
-  padding: 10px;
+  padding: 10px 0px;
   border-style: solid hidden solid hidden;
   border-width: 1px;
   border-color: #dddddd;
@@ -16,11 +16,10 @@
 }
 
 .footnote {
-  max-width: 720px;
+  max-width: 760px;
   margin: 0 auto;
   margin-top: 20px;
-  margin-bottom: 10px;
-  padding-top: 10px;
+  padding: 10px 0px;
   border-style: solid hidden hidden hidden;
   border-width: 1px;
   border-color: #dddddd;

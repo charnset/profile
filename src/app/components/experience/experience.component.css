@@ -1,5 +1,5 @@
 .experience {
-  max-width: 800px;
+  max-width: 760px;
   height: auto;
   margin: 0 auto;
   display: block;
@@ -7,12 +7,11 @@
 
 .header {
   margin: 5px 0;
-  padding-left: 30px;
 }
 
 .info {
   margin-top: 0px;
-  padding: 0px 60px;
+  padding: 0px 30px;
   list-style-type: circle;
   font-size: 12px;
 }

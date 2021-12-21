@@ -1,12 +1,11 @@
 .about-me {
-  max-width: 800px;
+  max-width: 760px;
   height: auto;
   margin: 0 auto;
   display: block;
 }
 
 .info {
-  padding: 0px 30px;
   font-size: 12px;
 }
 

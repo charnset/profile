@@ -11,7 +11,7 @@
 }
 
 .jump {
-  font-size: 16px;
+  font-size: 20px;
   color: #6eb5ff;
 }
 
@@ -24,5 +24,5 @@
   border-width: 1px;
   border-color: #dddddd;
   text-align: right;
-  font-size: 12px;
+  font-size: 16px;
 }

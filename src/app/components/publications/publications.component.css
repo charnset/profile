@@ -13,16 +13,20 @@
   margin-top: 0px;
   padding: 0px 30px;
   list-style-type: circle;
-  font-size: 12px;
+  font-size: 16px;
 }
 
 li {
-  font-size: 12px;
+  font-size: 16px;
 }
 
 span.authors {
   color: black;
-  font-size: 10px;
+  font-size: 14px;
+}
+
+.author-me {
+  font-size: 16px;
 }
 
 .source {
@@ -30,7 +34,7 @@ span.authors {
 }
 
 button {
-  font-size: 9px;
+  font-size: 12px;
   margin-top: 5px;
   margin-right: 5px;
   cursor: pointer;

@@ -13,10 +13,16 @@ export class PublicationsComponent implements OnInit {
   }
   
   getPaperPDF(path: string): void {
+    if (path == "TBD") {
+      return;
+    }
     window.open(path, "_blank");
   }
 
   getPaperCite(path: string): void {
+    if (path == "TBD") {
+      return;
+    }
     window.open(path, "_blank");
   }
 }

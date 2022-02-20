@@ -1,31 +1,28 @@
 .card {
-  max-width: 800px;
+  max-width: 760px;
   height: auto;
-  margin: 0 auto;
+  margin: auto;
   display: block;
 }
 
 .profile-image {
-  max-width: 250px;
-  height: auto;
+  max-width: 280px;
   border-radius: 50%;
   padding: 10px 10px 10px 10px;
-  float: left;
 }
 
 .info {
-  max-width: 550px;
-  height: auto;
+  max-width: 460px;
   padding: 10px;
   display: inline-block;
 }
 
-h3 {
+h1 {
   margin: 10px 0;
 }
 
 p {
-  font-size: 12px;
+  font-size: 18px;
 }
 
 p a {
@@ -34,7 +31,7 @@ p a {
 }
 
 .link {
-  font-size: 12px;
+  font-size: 16px;
   display: inline-block;
 }
 
@@ -44,7 +41,7 @@ p a {
 }
 
 .icon {
-  margin-left: 3px;
+  margin-left: 6px;
   margin-right: 20px;
 }
 

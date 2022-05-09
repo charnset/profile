@@ -20,6 +20,10 @@ li {
   font-size: 16px;
 }
 
+span {
+  display: inline-block;
+}
+
 span.authors {
   color: black;
   font-size: 14px;

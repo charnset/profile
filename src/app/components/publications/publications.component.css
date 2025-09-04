@@ -43,3 +43,11 @@ button {
   margin-right: 5px;
   cursor: pointer;
 }
+
+.highlight {
+  background-color: #f3f0fa;
+  color: #5a4e7c;
+  border-radius: 4px;
+  padding: 2px 6px;
+  font-weight: bold;
+}

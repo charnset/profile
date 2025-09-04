@@ -13,3 +13,11 @@ a {
   color: #6eb5ff;
 }
 
+.highlight {
+  background-color: #eaf6fb;
+  color: #2a4d69;
+  border-radius: 4px;
+  padding: 2px 8px;
+  font-weight: bold;
+  box-shadow: 0 1px 4px rgba(42,77,105,0.08);
+}
